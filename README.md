@@ -8,7 +8,9 @@
 - [x] [001](https://github.com/khoaht312/spotify-stats): *Taylor Swift Spotify Stream Trend Dashboard*
 - [ ] 002: 
 
-🏬 Economic: ``ECO``
+## Kaggle data projects
+
+🏬 Fraud Detection: ``FRD``
 - [ ] 001: 
 
 <!--

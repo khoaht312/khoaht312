@@ -11,7 +11,7 @@
 ## Kaggle data projects
 
 🏬 Fraud Detection: ``FRD``
-- [ ] 001: 
+- [ ] 001: *TalkingData AdTracking Fraud Detection*
 
 <!--
 **khoaht312/khoaht312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

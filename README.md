@@ -1,4 +1,4 @@
-## Real-world data projects
+## In-progress real-world data projects
 
 📖 Education ``EDU``
 - [x] [001](https://github.com/khoaht312/vnhsge-2018): *Analysis of the Vietnamese National High School Graduation Exam 2018 Scores*

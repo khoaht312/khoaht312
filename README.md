@@ -1,4 +1,7 @@
-## Real-world data projects
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%065D85&size=30&center=true&vCenter=true&width=450&lines=Real-world data projects" alt="Z"></a>
+</div>
 
 📖 Education ``EDU``
 - [x] [001](https://github.com/khoaht312/vnhsge-2018): *Analysis of the Vietnamese National High School Graduation Exam 2018 Scores (MOET, API provided by Vnanet)*

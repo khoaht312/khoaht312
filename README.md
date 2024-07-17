@@ -4,7 +4,7 @@
 </div>
 
 📖 Education ``EDU``
-- [x] [001](https://github.com/khoaht312/vnhsge-2018): *Analysis of the Vietnamese National High School Graduation Exam 2018 Scores (MOET, API provided by Vnanet)*
+- [x] [001](https://github.com/khoaht312/vnhsge-2018): *Analysis of the Vietnamese National High School Examination 2018 Scores (MOET, API provided by Vnanet)*
 - [ ] 002: 
   
 📻 Entertaiment ``ENT``
